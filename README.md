@@ -15,17 +15,16 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
 ### Setup
-
+clone this repository or download the Zip folder
 ### Install
-
+git clone <add the link to your repo here>
 ### Usage
+Navigate to the location of the folder in your machine:
 
-### Run tests
-
-### Deployment
+you@your-Pc-name:~$ cd <folder>
+Press Enter to navigate to your local clone.
 
 
 
