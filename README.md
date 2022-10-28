@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# hello microvese
+# Mobile version
 
-> hello microverse project.
+> Mobile version project.
 
 
 ## Built With
@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-**This is a microverse hello project.**
+**This is a mobile version of a website project.**
 
 To get a local copy up and running follow these simple example steps.
 
